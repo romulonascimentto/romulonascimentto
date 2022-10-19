@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Data Science.
 
-- 🌱 I’m currently learning: Automation, Data modelling using ML algorithms and ML model deployment on cloud.
+- 🌱 I’m currently learning: Automation, Data modelling, cloud.
 
 - 💞️ I’m looking to collaborate on Data Analytics Projects.
 
